@@ -1,4 +1,8 @@
 This is a beautiful story text
 this is 2nd day
 this is 2nd dayyyyyyyy
+<<<<<<< HEAD
 this is any story
+=======
+this is any storyy
+>>>>>>> c819366bfeb893d95c7ab8b98f4341d8f70fdebc
